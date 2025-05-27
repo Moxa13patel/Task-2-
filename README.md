@@ -1,4 +1,4 @@
-# Task-2-
+# Task-2
 Exploratory Data Analysis (EDA)
 Objective:
 The primary goal of this EDA task is to understand the dataset thoroughly using statistical summaries and visualizations, which helps in uncovering underlying patterns, trends, and anomalies that can guide further analysis.
